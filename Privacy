@@ -1,0 +1,76 @@
+Privacy Policy for DuelCore
+
+Effective Date: 09/05/2026
+
+DuelCore is developed and operated by Deku3922 ("we", "our", or "us").
+
+This Privacy Policy explains how we collect, use, and protect information when you use the DuelCore mobile application.
+
+1. Information We Collect
+Google Sign-In
+
+If you choose to sign in with Google, we collect basic account information such as:
+
+email address
+Google User ID
+
+This information is used only for authentication and cloud synchronization.
+
+Cloud Synchronization
+
+User preferences and app-related data (such as custom buttons, saved settings, and decks/cards) may be stored securely using Firebase Firestore to enable synchronization across devices.
+
+Purchases and Subscriptions
+
+Payments for DuelCore Pro are processed securely through Google Play. Subscription management is handled by RevenueCat.
+
+We do not collect or store payment card information.
+
+Analytics and Diagnostics
+
+We may use Firebase Analytics and related services to collect anonymous usage data, crash reports, and performance information to improve the app experience.
+
+2. AI Judge Feature
+
+DuelCore includes an AI-powered Judge feature.
+
+Queries submitted through this feature may be processed by third-party AI service providers to generate rulings and responses. Please do not submit sensitive or personal information through the AI chat.
+
+3. Third-Party Services
+
+DuelCore may use the following third-party services:
+
+Google Play Services
+Firebase Analytics
+Firebase Firestore
+RevenueCat
+
+Each provider may collect and process data according to their own privacy policies.
+
+4. Data Retention and Deletion
+
+You may request deletion of your cloud-synced data and associated account information by contacting us at the email below.
+
+We will process deletion requests within a reasonable timeframe.
+
+5. Your Rights (GDPR)
+
+If you are located in the European Economic Area (EEA), you may have the right to:
+
+access your personal data
+request correction of inaccurate data
+request deletion of your data
+object to certain data processing activities
+6. Children's Privacy
+
+DuelCore is not intended for children under the age of 13, and we do not knowingly collect personal information from children.
+
+7. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Changes will be posted on this page with an updated effective date.
+
+8. Contact Us
+
+If you have any questions about this Privacy Policy, you may contact us at:
+
+dimaiokristian.lavoro@gmail.com
